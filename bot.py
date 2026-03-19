@@ -5,7 +5,7 @@ from telegram.ext import (
     ConversationHandler, filters, ContextTypes
 )
 
-BOT_TOKEN = '8608074874:AAFWEklW57zO8F2zewtMwsPDEKbiQ'
+BOT_TOKEN = '8525807195:AAEyqZTfZFXIr5j9lF47zpb-SqXhOL1mJIE'
 ADMIN_CHAT_ID = '6449930180'
 
 logging.basicConfig(level=logging.INFO)
